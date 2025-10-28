@@ -3,7 +3,7 @@
 A simple and interactive console-based billing system built in C++ to simulate a basic supermarket counter.
 It allows users to manage inventory and generate bills with real-time stock updates.
 
----
+
 
 ## Features
 
@@ -13,7 +13,7 @@ It allows users to manage inventory and generate bills with real-time stock upda
 * **Formatted and Readable Bill Output**
 * **Implemented using Object-Oriented Programming (OOP)**
 
----
+
 
 ## Technologies Used
 
@@ -23,7 +23,7 @@ It allows users to manage inventory and generate bills with real-time stock upda
 * **Console Input/Output**
 * **`iomanip` for formatted display**
 
----
+
 
 ## Sample Input & Output
 
@@ -72,7 +72,7 @@ Total Bill: ₹140
 Thank you for shopping!
 ```
 
----
+
 
 ## How to Run
 
@@ -88,7 +88,7 @@ Thank you for shopping!
    ./billing
    ```
 
----
+
 
 ## Project Structure
 
@@ -97,7 +97,7 @@ supermarket_billing.cpp   # Main source file
 README.md                 # Project documentation
 ```
 
----
+
 
 ## Notes
 
